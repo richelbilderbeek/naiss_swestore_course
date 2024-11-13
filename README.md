@@ -1,7 +1,8 @@
 # Swestore course
 
 ```text
-This repository is part of UPPMAX until NAISS has its own GitHub account.
+This repository is part of UPPMAX
+until [some organisation] has its own GitHub account.
 UPPMAX is chosen for practical reasons unrelated to its importance.
 ```
 
