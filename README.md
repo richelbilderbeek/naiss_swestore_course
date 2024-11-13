@@ -1,4 +1,4 @@
-# NAISS Swestore course
+# Swestore course
 
 ```text
 This repository is part of UPPMAX until NAISS has its own GitHub account.
