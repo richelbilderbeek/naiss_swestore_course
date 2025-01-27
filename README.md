@@ -24,7 +24,7 @@ Preliminary estimated time: 3 hours
 
 - None
 
-## Learning objectives
+## Learning outcomes
 
 - Learners have practiced searching the Swestore documentation
 - Learners are able to download files using [a web interface](https://webdav.swestore.se/)
